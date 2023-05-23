@@ -14,7 +14,7 @@
 
 **:globe_with_meridians: [访问官方网站]
 
-*:www.vspeedx.com
+**:globe_with_meridians:www.vspeedx.com
 - - - -
 #### 联系真人客服（请在浏览器中打开）
 
