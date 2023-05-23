@@ -12,7 +12,7 @@
 
 **:arrow_double_down: [macOS 版本.dmg](https://lets-contact.onelink.me/0dzS/ec04g6tl)**
 
-**:globe_with_meridians: [访问官方网站]
+:globe_with_meridians: [访问官方网站]
 
 -[Simple, fast routing engine]
 
